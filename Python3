@@ -1,0 +1,7 @@
+my_dic = {'name':'belal', 'Roll': 9986770, 'Dep':'CSE'}
+# name = key
+# belal = Value
+my_dic['Reg']=1325445567
+my_dic['Course']= 'Section 1'
+
+print(my_dic)
